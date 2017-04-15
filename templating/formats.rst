@@ -86,4 +86,4 @@ format:
     negotiation. For more information, check out the bundle's `Request Format Listener`_
     documentation.
 
-.. _Request Format Listener: http://symfony.com/doc/current/bundles/FOSRestBundle/3-listener-support.html#format-listener
+.. _Request Format Listener: https://symfony.com/doc/current/bundles/FOSRestBundle/3-listener-support.html#format-listener
